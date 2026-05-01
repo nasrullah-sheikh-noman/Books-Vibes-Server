@@ -26,11 +26,13 @@ Use this API as a fake backend for frontend projects such as:
 - Live site: https://books-vibes-theta.vercel.app/
 
 ## API Endpoint
+Base URL:
 
 ```bash
 https://books-vibes-server.onrender.com/Books
 ```
 
+### Usage Example (React/Js)
 ```javascript
 const res = await fetch("https://books-vibes-server.onrender.com/Books");
 const books = res.json();
