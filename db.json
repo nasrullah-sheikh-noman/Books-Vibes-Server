@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "The Lost Island",
+    "author": "James Carter",
+    "description": "An adventurous story about a group of friends discovering a hidden island full of mysteries.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+  },
+  {
+    "id": 2,
+    "title": "React for Beginners",
+    "author": "Sarah Johnson",
+    "description": "A beginner-friendly guide to building modern web apps with React.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 3,
+    "title": "Space Beyond Earth",
+    "author": "Michael Brown",
+    "description": "Explore the wonders of the universe, galaxies, and space missions.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"
+  },
+  {
+    "id": 4,
+    "title": "Mystery of the Old House",
+    "author": "Emma Wilson",
+    "description": "A thrilling mystery story centered around a haunted old mansion.",
+    "category": "Story",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Mastery",
+    "author": "David Miller",
+    "description": "Advanced JavaScript concepts explained with practical examples.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  },
+  {
+    "id": 6,
+    "title": "The Human Brain",
+    "author": "Sophia Clark",
+    "description": "A fascinating dive into neuroscience and how the brain works.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+  },
+  {
+    "id": 7,
+    "title": "Journey to the Mountains",
+    "author": "Liam Anderson",
+    "description": "A heartwarming travel story about self-discovery in the mountains.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Essentials",
+    "author": "Chris Evans",
+    "description": "Learn backend development and API building with Node.js.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "id": 9,
+    "title": "Physics Simplified",
+    "author": "Daniel Lee",
+    "description": "An easy introduction to the laws of physics and motion.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d"
+  },
+  {
+    "id": 10,
+    "title": "The Secret Diary",
+    "author": "Olivia Taylor",
+    "description": "A coming-of-age story told through a teenager's diary entries.",
+    "category": "Story",
+    "available_quantity": 13,
+    "image_url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc"
+  },
+  {
+    "id": 11,
+    "title": "Python Crash Course",
+    "author": "Mark Thomas",
+    "description": "A practical introduction to Python programming for beginners.",
+    "category": "Tech",
+    "available_quantity": 14,
+    "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+  },
+  {
+    "id": 12,
+    "title": "Ocean Mysteries",
+    "author": "Isabella White",
+    "description": "Discover marine life, deep sea exploration, and ocean science.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f"
+  },
+  {
+    "id": 13,
+    "title": "The Final Chapter",
+    "author": "Noah Harris",
+    "description": "A dramatic story of friendship, betrayal, and redemption.",
+    "category": "Story",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570"
+  },
+  {
+    "id": 14,
+    "title": "Next.js in Action",
+    "author": "Ava Martinez",
+    "description": "Build scalable web applications with Next.js and server-side rendering.",
+    "category": "Tech",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+  },
+  {
+    "id": 15,
+    "title": "Climate Change Today",
+    "author": "Ethan Walker",
+    "description": "A detailed look into global warming and environmental science.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8"
+  },
+  {
+    "id": 16,
+    "title": "Whispers in the Dark",
+    "author": "Mia Scott",
+    "description": "A suspenseful horror story filled with twists and secrets.",
+    "category": "Story",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
+  },
+  {
+    "id": 17,
+    "title": "Database Design Basics",
+    "author": "Lucas Moore",
+    "description": "Learn relational databases, SQL, and schema design fundamentals.",
+    "category": "Tech",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6"
+  },
+  {
+    "id": 18,
+    "title": "The Solar System",
+    "author": "Charlotte Hall",
+    "description": "An illustrated guide to planets, moons, and the solar system.",
+    "category": "Science",
+    "available_quantity": 12,
+    "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564"
+  },
+  {
+    "id": 19,
+    "title": "A Tale of Two Cities Reimagined",
+    "author": "Henry Adams",
+    "description": "A modern retelling of a classic story with contemporary themes.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1495640388908-05fa85288e61"
+  },
+  {
+    "id": 20,
+    "title": "AI and the Future",
+    "author": "Grace Young",
+    "description": "An overview of artificial intelligence and its impact on society.",
+    "category": "Tech",
+    "available_quantity": 15,
+    "image_url": "https://images.unsplash.com/photo-1484417894907-623942c8ee29"
+  }
+]
