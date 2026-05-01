@@ -21,8 +21,11 @@ Use this API as a fake backend for frontend projects such as:
 - React.js
 - JavaScript practice projects
 
+## Related project
+- Frontend: https://github.com/nasrullah-sheikh-noman/BooksVibes
+- Live site: https://books-vibes-theta.vercel.app/
+
 ## API Endpoint
-After deployment on Render:
 
 ```bash
 https://books-vibes-server.onrender.com/Books
